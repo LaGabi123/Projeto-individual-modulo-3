@@ -1,0 +1,118 @@
+{
+    "funcionarios":[
+      {
+        "nome": "Marta",
+        "sobrenome": "Regina",
+        "sexo": "feminino",
+        "cargo": "Caixa",
+        "id": "1"
+      },
+      {
+        "nome": "Thaires",
+        "sobrenome": "Silva",
+        "sexo": "feminino",
+        "cargo": "Gerente",
+        "id": "2"
+      },
+      {
+        "nome": "Helena",
+        "sobrenome": "Souza",
+        "sexo": "feminino",
+        "cargo": "Garçonete",
+        "id": "3"
+      },
+      {
+        "nome": "Lucas",
+        "sobrenome": "Almeida",
+        "sexo": "Masculino",
+        "cargos": "Entregador",
+        "id": "4"
+      },
+      {
+        "nome": "Antonio",
+        "sobrenome": "Alves",
+        "sexo": "Masculino",
+        "cargos": "Segurança",
+        "id": "4"
+      },
+      {
+        "nome": "Miguel",
+        "sobrenome": "Silva",
+        "sexo": "Masculino",
+        "cargos": "Barman",
+        "id": "4"
+      }
+    ],
+    "Cervejas": [
+      {
+        "nome": "Cerveja",
+        "marca": "Heineken",
+        "valor": "14,00",
+        "disponivel": true,
+        "quantidade": "600ml",
+        "id": 1,
+        "imagem": "https://www.magazineluiza.com.br/cerveja-heineken-premium-puro-malte-lager-pilsen-6-garrafas-long-neck-330ml/p/225339400/me/cvej/?&seller_id=magazineluiza&utm_source=google&utm_medium=cpc&utm_campaign=-ft_pla-nc_coop_heineken_alwayson_google_pmax-oc_venda&utm_content=-un_magalu-ce_b2c-cp_cooperados-bo_none-ts_bebidas&utm_term=69370&partner_id=69370"
+      },
+      {
+        "nome": "Cerveja",
+        "marca": "Budweiser",
+        "valor": "12,00",
+        "disponível": true,
+        "quantidade": "600ml",
+        "id": 2,
+        "imagem": "https://www.ze.delivery/entrega-produto/8779/budweiser-600ml-apenas-o-liquido-unidade?gclid=CjwKCAiApvebBhAvEiwAe7mHSDUSdYY-jB4RK1JJDjcjAYIPRK48SwUIP2OpXjIBM6wikMqGNni5nRoCWPkQAvD_BwE"
+      },
+      {
+        "nome": "Cerveja",
+        "marca": "Brahma Duplo Malte",
+        "valor": "10,00",
+        "disponivel": true,
+        "quantidade": "600ml",
+        "id": 3,
+        "imagem": "https://ze.delivery/entrega-produto/10267/brahma-duplo-malte-600ml-apenas-o-liquido?gclid=CjwKCAiApvebBhAvEiwAe7mHSAH5VshCvFYxKNk7JDcUfGHhcYrUj8ceDCTkYQ4L8oToAaWw6l-iCBoCr_MQAvD_BwE"
+      },
+      {
+        "nome": "cerveja",
+        "marca": "Antarctica Original",
+        "valor": "12,00",
+        "disponivel": true,
+        "quantidade": "600ml",
+        "id": 4,
+        "imagem": "https://www.emporiodacerveja.com.br/cerveja-antarctica-original-600ml-caixa-com-12-unidades/p?idsku=601&utm_source=google&utm_medium=cpc&utm_campaign=shopping&gclid=CjwKCAiApvebBhAvEiwAe7mHSN2hohSyZdHtEFdMecg8trRpfv-etxhtH2QAODf3v-Up1x72bTAgxBoC7Q4QAvD_BwE"
+      }
+    ],
+    "Petiscos":[
+      {
+        "nome": "Frango a passarinho",
+        "valor": "40,00",
+        "disponivel": true,
+        "quantidade": "Porção para 4 ou 6 pessoas",
+        "id": 1,
+        "imagem": "https://www.tripadvisor.com.br/LocationPhotoDirectLink-g2342816-d8220929-i158054683-Petiscos_Vilmar-Itaborai_State_of_Rio_de_Janeiro.html"
+      },
+      {
+        "nome": "Batata frita e calabresa",
+        "valor": "35,00",
+        "disponível": true,
+        "quantidade": "Porcão para 4 ou 6 pessoas",
+        "id": 2,
+        "imagem": "https://m.facebook.com/DomPortuga/photos/petisco-na-caixa-batata-frita-aipim-calabresa-frango-a-pass-molho-de-alhopor-349/1030104267139436/"
+      },
+      {
+        "nome": "Camarão frito",
+        "valor": "70,00",
+        "disponivel": true,
+        "quantidade": "Porção para 4 pessoas",
+        "id": 3,
+        "imagem": "https://www.tudoreceitas.com/receita-de-camarao-frito-com-casca-10164.html"
+      },
+      {
+        "nome": "Torresmo",
+        "valor": "25,00",
+        "disponivel": true,
+        "quantidade": "Porção para 4 pessoas",
+        "id": 4,
+        "imagem": "https://www.30receitas.com/torresmo-de-boteco/"
+      }
+    ]
+  }
